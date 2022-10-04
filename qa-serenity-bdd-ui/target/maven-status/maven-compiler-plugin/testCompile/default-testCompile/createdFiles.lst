@@ -1,0 +1,4 @@
+pages\PmiHomePage.class
+stepDefinitions\PmiStepDefinitions.class
+steps\PmiSteps.class
+runners\CucumberTestSuite.class
